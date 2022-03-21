@@ -1,7 +1,7 @@
 # html-from-txt
 static site generator with txt source
 
-generates for every txt in all subdirectories files an html file.
+generates for every txt in all subdirectories files an html file.  
 the generated html is a copy of base.html with the txt copied into it.
 
 ---
