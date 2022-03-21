@@ -8,9 +8,9 @@ the generated html is a copy of base.html with the txt copied into it.
 documentation:
 the program requires a base.html in the local directory.
 base.html can have these strings in the file: 
-- <p>no page source</p>
-  this is replaced with the content of the txt
-- no page title
-  this is replaced with the txt file name
+- ```<p>no page source</p>```
+  is replaced with the content of the txt
+- ```no page title```
+  is replaced with the txt file name
 
 the program recursively searches .txt files from the local directory.
